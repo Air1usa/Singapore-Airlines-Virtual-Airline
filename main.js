@@ -1,7 +1,7 @@
 {
-    "name": "<option value="SG">Singapore 🇸🇬</option>Singapore Airlines",
-    "color": "",
-    "bgcolor": "",
+    "name": "SG Singapore Airlines",
+    "color": "#fd9f01",
+    "bgcolor": "#0b3080",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -238,6 +238,14 @@
         "239": {
             "name": "Airbus a350-900",
             "liveries": [
+                {
+                    "name": "Singapore Airlines",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-900/singapore.jpg"
+                    ],
+                    "credits": "Singapore Airlines"
+                }
             ],
             "labels": [
                 "Texture"

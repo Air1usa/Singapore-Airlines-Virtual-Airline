@@ -1,5 +1,5 @@
 {
-    "name": "🇸🇬Singapore Airlines",
+    "name": "<option value="SG">Singapore 🇸🇬</option>Singapore Airlines",
     "color": "",
     "bgcolor": "",
     "aircrafts": {

@@ -1,5 +1,5 @@
 {
-    "name": "SG Singapore Airlines",
+    "name": "Singapore Airlines",
     "color": "#fd9f01",
     "bgcolor": "#0b3080",
     "aircrafts": {
